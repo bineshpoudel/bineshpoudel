@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: darkslateblue;
+}
+.intro {
+  font-size: 80px;
+  margin-top: 20%;
+  margin-left: 25%;
+  color: white;
+}
