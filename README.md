@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bineshpoudel" target="blank"><img src="https://img.shields.io/twitter/follow/bineshpoudel?logo=twitter&style=for-the-badge" alt="bineshpoudel" /></a> </p>
 
-- 🔭 I’m currently working on **my own project**
+- 🔭 I’m currently working on **my own world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
