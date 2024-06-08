@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Binesh Poudel! </h1>
+<h1 align="center">Hi 👋, I'm Binesh Poudel </h1>
 <h3 align="center">A passionate frontend developer</h3>
 <!-- # 💫 About Me: -->
 <!-- 🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on ML AI<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
