@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Binesh Poudel! </h1>
-<h3 align="center">I'm a dedicated frontend developer from Nepal, bringing over a year of hands-on industry experience to the table, backed by couple of years of self-taught expertise. My journey in tech is fueled by a deep passion for creating seamless digital experiences, blending front-end skills to deliver robust and innovative solutions.</h3>
+<h6 align="center">I'm a dedicated frontend developer from Nepal, bringing over a year of hands-on industry experience to the table, backed by couple of years of self-taught expertise. My journey in tech is fueled by a deep passion for creating seamless digital experiences, blending front-end skills to deliver robust and innovative solutions.</h6>
 <!-- # 💫 About Me: -->
 <!-- 🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on ML AI<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
